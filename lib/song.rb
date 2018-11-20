@@ -7,11 +7,5 @@ class Song
      @name = name
      @@all << song 
    end
-   
-   def artist_name =
-     song.artist = self
-    end
-   
- 
-   
+
 end
