@@ -5,3 +5,4 @@ class Post
     @title = title
     @posts = []
   end 
+end
