@@ -5,6 +5,7 @@ class Song
    def initialize(name)
      @name = name
      @songs = []
+     @songs << song
    end
 
 end
