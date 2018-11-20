@@ -1,7 +1,6 @@
 class Song 
    attr_accessor :name
-   
-   @@songs 
+  
    
    def initialize(name)
      @name = name
@@ -13,7 +12,7 @@ class Song
     end
    
    def add_song(song) 
-     @@songs << song
+     @songs << song
    end
    
 end
