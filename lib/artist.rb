@@ -15,4 +15,8 @@ class Artist
    def song
      @song
    end
+   
+   def artist
+     @artist
+   end
 end
