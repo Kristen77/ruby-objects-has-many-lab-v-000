@@ -6,5 +6,4 @@ class Song
      @name = name
      @songs = []
    end
-
 end
